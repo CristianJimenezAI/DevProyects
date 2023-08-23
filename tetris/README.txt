@@ -43,7 +43,9 @@ Licencia
 Licencia GPL (GNU General Public License)
 
 
-
+Información adicional
+----------------------------
+El código tiene la documentación correspondiente para facilitar su manipulación y ejecución.
 
 
 
