@@ -10,6 +10,8 @@ No aplica
 
 Instalación
 ----------------------------
+>  https://github.com/CristianJimenezAI/DevProyects/tree/main/tetris
+
 1. Clona este repositorio en la máquina local.
 2. Ejecute el HTML en el buscador de preferencia.
 *(Necesita de JavaScript para ejecutar el programa)
