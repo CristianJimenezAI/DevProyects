@@ -10,7 +10,7 @@ No aplica
 
 Instalación
 ----------------------------
->  https://github.com/CristianJimenezAI/DevProyects/tree/main/tetris
+>  https://github.com/CristianJimenezAI/DevProyects/tree/main/XO_game
 
 1. Clona este repositorio en la máquina local.
 2. Ejecute el HTML en el buscador de preferencia.
